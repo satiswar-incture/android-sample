@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Workload Management</string>
+    <string name="action_settings">Settings</string>
+    <string name="tasks">Tasks</string>
+    <string name="user_group">User Group:</string>
+    <string name="user_group_everyone">Everyone</string>
+    <string name="HEAT_MAP_URI">http://115.110.225.49:50000/appone/pmc/userload/heatmap</string>
+</resources>
